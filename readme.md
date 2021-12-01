@@ -1,6 +1,6 @@
 # Advent of Code 2021
 
-![](icon.png)
+![](./icon.png)
 
 Will be doing this coding challenge this year and posting all solutions on GitHub
 
